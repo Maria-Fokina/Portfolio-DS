@@ -1,7 +1,7 @@
 # Portfolio-DS
 
 <p align="center">
-      <img src="https://avatars.mds.yandex.net/get-shedevrum/12155741/img_d2d8618f0f9f11efa774da31b0f942fa/orig", width="726">
+      <img src="erf.jpg", width="726">
 </p>
 
 Обо мне.
