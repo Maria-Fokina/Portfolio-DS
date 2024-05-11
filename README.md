@@ -1,7 +1,7 @@
 # Portfolio-DS
 
 <p align="center">
-      <img src="erf.jpg", width="726">
+      <img src="log.jpg", width="726">
 </p>
 
 Обо мне.
