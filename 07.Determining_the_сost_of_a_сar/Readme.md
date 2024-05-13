@@ -1,6 +1,6 @@
 ## Определение стоимости автомобилей
 <p align="center">
-      <img src="" width="726">
+      <img src="https://i.ibb.co/YfMsWfZ/CAR.jpg" width="726">
 </p>
 
 <p align="center">
