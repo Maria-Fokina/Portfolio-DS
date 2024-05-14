@@ -1,6 +1,6 @@
 # Tелекоммуникации
 <p align="center">
-      <img src="https://i.ibb.co/VxzXddZ/025118406.jpg" width="726">
+      <img src="https://i.ibb.co/hBNm40s/tc.jpg" width="726">
 </p>
 
 <p align="center">
