@@ -1,6 +1,6 @@
 ## Музыка больших городов
 <p align="center">
-      <img src="https://i.ibb.co/7RFTSMF/mus.webp" width="726">
+      <img src="https://i.ibb.co/C0YGbVM/mus.jpg" width="726">
 </p>
 
 <p align="center">
