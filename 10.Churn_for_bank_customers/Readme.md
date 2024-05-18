@@ -14,7 +14,7 @@
 Сформировать модель, которая будет прогнозировать, уйдёт клиент из банка в ближайшее время или нет. Значение F1-меры должно быть не менее 0.59.
 
 ## Итоги:
-По итогу исследования рекомендована модель RandomForestClassifier с увеличением выборки техникой "upsampling" и с гиперпараметрами: criterion='gini', n_estimators=111, max_depth=18
+По итогу исследования рекомендовала модель RandomForestClassifier с увеличением выборки техникой "upsampling" и с гиперпараметрами: criterion='gini', n_estimators=111, max_depth=18
 
 ## Стек/инструменты:
 Matplotlib, Pandas, Python, Scikit-learn
