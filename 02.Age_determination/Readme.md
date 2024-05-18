@@ -18,7 +18,7 @@
 Сформировать модель, которая по фотографии определит приблизительный возраст человека. 
 
 ## Итоги:
-Для решения задачи использовалась нейросеть с архитектурой ResNet50 (backbone + GlobalAveragePooling2D, Dense(1, activation='relu')), применялись предобученные весы weights='imagenet', параметры обучения: batch_size=None, epochs=16, optimizer = Adam(learning_rate = 0.0001). 
+Для решения задачи использовала нейросеть с архитектурой ResNet50 (backbone + GlobalAveragePooling2D, Dense(1, activation='relu')), применяя предобученные весы weights='imagenet', параметры обучения: batch_size=None, epochs=16, optimizer = Adam(learning_rate = 0.0001). 
 Модель определяет возраст с погрешностью около 6 лет.
 
 ## Стек/инструменты:
