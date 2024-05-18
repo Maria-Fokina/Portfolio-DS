@@ -4,18 +4,15 @@
       <img src="log.jpg", width="726">
 </p>
 
-<p align="center">
-   <img src="https://img.shields.io/badge/project%20status-completed-turquoise" alt="project_status">
-   <img src="https://img.shields.io/badge/project%20status-completed-turquoise" alt="project_status">
-   <img src="https://img.shields.io/badge/project%20status-completed-turquoise" alt="project_status">
+
+Контакты:
+
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=Telegram&logoColor=%2326A5E4&labelColor=white&color=%2326A5E4)](https://t.me/Ssomnia)
 [![hh](https://img.shields.io/badge/HeadHunter-white?style=flat&logo=hh&logoColor=%23FF3621&label=hh&labelColor=%23FF3621)](https://hh.ru/applicant/resumes/view?resume=45e2efd2ff0cf69bd80039ed1f37576e43324e&customDomain=1")
 [![career.habr](https://img.shields.io/badge/career.habr-%2365A3BE?style=flat&logo=habr&labelColor=white&color=%2365A3BE)](https://career.habr.com/cassiopea)
 
-</p>
 
-
-В рамках курса по Data Science я успешно завершила 16 проектов, демонстрируя свои навыки и умения в работе с данными:
+В рамках курса "Специалист по Data Science" я успешно завершила 16 проектов, демонстрируя свои навыки и умения в работе с данными:
 
 ## Проекты курса Я.Практикум
 
