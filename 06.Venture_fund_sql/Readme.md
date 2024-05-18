@@ -1,6 +1,6 @@
-## Прогнозирование заказов такси
+## Анализ базы данных венчурных фондов и инвестиций в компании-стартапы с помощью SQL
 <p align="center">
-      <img src="" width="726">
+      <img src="https://i.ibb.co/SVry8vC/6.jpg" width="726">
 </p>
 
 <p align="center">
