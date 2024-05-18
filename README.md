@@ -4,15 +4,15 @@
       <img src="log.jpg", width="726">
 </p>
 
-Обо мне.
+<p align="center">
+   <img src="https://img.shields.io/badge/project%20status-completed-turquoise" alt="project_status">
+   <img src="https://img.shields.io/badge/project%20status-completed-turquoise" alt="project_status">
+   <img src="https://img.shields.io/badge/project%20status-completed-turquoise" alt="project_status">
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=Telegram&logoColor=%2326A5E4&labelColor=white&color=%2326A5E4)](https://t.me/Ssomnia)
+[![hh](https://img.shields.io/badge/HeadHunter-white?style=flat&logo=hh&logoColor=%23FF3621&label=hh&labelColor=%23FF3621)](https://hh.ru/applicant/resumes/view?resume=45e2efd2ff0cf69bd80039ed1f37576e43324e&customDomain=1")
+[![career.habr](https://img.shields.io/badge/career.habr-%2365A3BE?style=flat&logo=habr&labelColor=white&color=%2365A3BE)](https://career.habr.com/cassiopea)
 
-Меня зовут Мария Фокина и почти 1,5 года назад я сделала смелый шаг и перешла в сферу Data Science. Эта область стала для меня настоящим увлечением - я с удовольствием погрузилась в изучение статистики, машинного обучения, нейронных сетей и методов автоматизации различных процессов. При этом мой предыдущий опыт работы в сферах продаж и управления дает мне ценные навыки понимания бизнес-задач и умения работать в команде над их решением. Я уверена, что этот микс компетенций поможет мне добиться отличных результатов.
-
-Контакты:
-* Телеграм: https://t.me/Ssomnia
-* Email: fox38M@yandex.ru
-* Резюме: [hh](https://hh.ru/applicant/resumes/view?resume=45e2efd2ff0cf69bd80039ed1f37576e43324e&customDomain=1")
-
+</p>
 
 
 В рамках курса по Data Science я успешно завершила 16 проектов, демонстрируя свои навыки и умения в работе с данными:
