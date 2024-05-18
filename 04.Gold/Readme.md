@@ -15,7 +15,7 @@
 
 ## Итоги: 
 Прототипом стала модель RandomForestRegressor, т к она лучше всего предсказывает коэффициент восстановления золота из золотосодержащей руды. 
-Результат оценивался метрикой sMAPE (англ. Symmetric Mean Absolute Percentage Error, «симметричное среднее абсолютное процентное отклонение»)
+Результат оценивала метрикой sMAPE (англ. Symmetric Mean Absolute Percentage Error, «симметричное среднее абсолютное процентное отклонение»)
 
 ## Стек/инструменты:
 Matplotlib, NumPy, Pandas, Python, Scikit-learn
