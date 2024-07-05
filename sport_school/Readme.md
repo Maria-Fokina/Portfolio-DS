@@ -1,6 +1,6 @@
 # Проект для GoProtect
 <p align="center">
-      <img src="https://ibb.co/PNs9hvk" width="726">
+      <img src="https://i.ibb.co/56Xn8gZ/eswr.jpg" width="726">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 Сформировать и обучить модель, которая сможет эффективно определять эталонное наименование школы по вводу наименований с ошибками
 
 ## Итоги:
-
+Протестирована модель LaBSE из sentence_transformers, доля правильных интерпретаций: 
 
 ## Стек/инструменты:
-Matplotlib, Pandas, Python, Seaborn, NumPy, Scikit-learn, Phik, Category encoders
+Pandas, Python, NumPy, sentence_transformers
