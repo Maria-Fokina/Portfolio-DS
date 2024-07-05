@@ -11,7 +11,7 @@
 [![hh](https://img.shields.io/badge/HeadHunter-white?style=flat&logo=hh&logoColor=%23FF3621&label=hh&labelColor=%23FF3621)](https://hh.ru/applicant/resumes/view?resume=45e2efd2ff0cf69bd80039ed1f37576e43324e&customDomain=1")
 [![career.habr](https://img.shields.io/badge/career.habr-%2365A3BE?style=flat&logo=habr&labelColor=white&color=%2365A3BE)](https://career.habr.com/cassiopea)
 
-## Проекты.
+## Проекты
 | Название проекта |Направление деятельности|Описание | Стек | 
 |:---------------------- |:-----------------|:---------------------- | :---------------------- |
 | [Стандартизация названий спортивных школ](sport_school) |NLP || *Pandas, Python, NumPy, sentence_transformers* |
